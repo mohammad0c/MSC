@@ -1,0 +1,10 @@
+C:\Users\n-nav\Desktop\NetG\InstaLover.Core\InstaLover.Core\bin\Debug\InstaLover.Core.exe.config
+C:\Users\n-nav\Desktop\NetG\InstaLover.Core\InstaLover.Core\bin\Debug\InstaLover.Core.exe
+C:\Users\n-nav\Desktop\NetG\InstaLover.Core\InstaLover.Core\bin\Debug\InstaLover.Core.pdb
+C:\Users\n-nav\Desktop\NetG\InstaLover.Core\InstaLover.Core\bin\Debug\MSC.dll
+C:\Users\n-nav\Desktop\NetG\InstaLover.Core\InstaLover.Core\bin\Debug\DeathByCaptcha.dll
+C:\Users\n-nav\Desktop\NetG\InstaLover.Core\InstaLover.Core\bin\Debug\MSC.pdb
+C:\Users\n-nav\Desktop\NetG\InstaLover.Core\InstaLover.Core\bin\Debug\DeathByCaptcha.pdb
+C:\Users\n-nav\Desktop\NetG\InstaLover.Core\InstaLover.Core\obj\Debug\InstaLover.Core.csprojResolveAssemblyReference.cache
+C:\Users\n-nav\Desktop\NetG\InstaLover.Core\InstaLover.Core\obj\Debug\InstaLover.Core.exe
+C:\Users\n-nav\Desktop\NetG\InstaLover.Core\InstaLover.Core\obj\Debug\InstaLover.Core.pdb
